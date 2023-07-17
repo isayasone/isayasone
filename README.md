@@ -1,6 +1,5 @@
 - 👋 Hi, I’m  Isayas 
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...MEAN Stack
+-k
 
 
 <!---
